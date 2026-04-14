@@ -51,12 +51,8 @@
 ## 📫 Contact
 <div align="center">
 
-  <a href="mailto:dwk9946@ndusoft.com">
+  <a href="mailto:dudwk9946@naver.com">
     <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://velog.io/@wunghuihwang">
-    <img src="https://img.shields.io/badge/velog-12b886?style=for-the-badge&logo=velog&logoColor=white">
   </a>
 
   <a href="https://github.com/wunghuihwang">
@@ -66,7 +62,7 @@
   <br><br>
 
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/wunghuihwang&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/wunhui&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false"/>
   </a>
 
 </div>
@@ -75,11 +71,11 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=wunghuihwang&show_icons=true&theme=tokyonight" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wunghuihwang&layout=compact&theme=tokyonight" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=wunhui&show_icons=true&theme=tokyonight" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wunhui&layout=compact&theme=tokyonight" width="49%" />
 
 <br>
 
 ## 🔥 Streak
 
-<img src="https://streak-stats.demolab.com?user=wunghuihwang&theme=tokyonight" width="100%" />
+<img src="https://streak-stats.demolab.com?user=wunhui&theme=tokyonight" width="100%" />
