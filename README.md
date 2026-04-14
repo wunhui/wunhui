@@ -63,12 +63,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=wunhui&show_icons=true&theme=tokyonight" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wunhui&layout=compact&theme=tokyonight" width="49%" />
-
-<br>
 
 ## 🔥 Streak
 
